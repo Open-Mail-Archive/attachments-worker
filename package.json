@@ -1,6 +1,6 @@
 {
   "name": "@open-mail-archive/attachments-worker",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "Microservice from the worker archetype of the app, responsible for consuming jobs related to email attachments.",
   "type": "module",
   "main": "dist/index.js",
